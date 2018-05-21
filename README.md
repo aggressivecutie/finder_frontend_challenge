@@ -5,8 +5,11 @@ Created with create-react-app.
 
 ## Getting started
 Install project dependencies if needed by running
+
 `yarn install`
+
 or
+
 `npm install`
 
 To start the server, run
