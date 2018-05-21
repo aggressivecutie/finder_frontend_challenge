@@ -1,0 +1,66 @@
+.App{
+  background-color: #ccc;
+  min-height: 100vh;
+  min-width: 100vw;
+  padding: 5px;
+}
+
+.App-header {
+  background-color: #2a8fff;
+  height: 8em;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.App-title {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.App-header__underline {
+  background-color: #1a304d;
+  height: 9em;
+  padding: 0 0 0 5;
+}
+
+.NavBar{
+  background-color: white;
+  padding: .25em;
+  padding-left: 1em;
+
+}
+
+.SideContainer{
+  background-color: white;
+  margin-top: 1em;
+  border-radius: 3px;
+  padding: 2em;
+  height: 72vh;
+  overflow: scroll;
+}
+
+.Feed{
+  padding: 1em;
+}
+
+.verticalLine{
+  border-left: solid;
+  font-size: .9em;
+}
+
+.underline{
+  text-decoration: underline;
+}
+
+.italic{
+  font-style: italic;
+  font-size: .75em
+}
+.active{
+  background-color: #1a304d !important;
+  color: #f8ffff !important;
+}
